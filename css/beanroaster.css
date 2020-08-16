@@ -54,6 +54,7 @@ footer {
 }
 
 #uploadImage{
+    width: 61%;
     float:left
 }
 
@@ -99,4 +100,26 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#Comments{
+    margin: auto;
+}
+
+#loadImage{
+    width: 15%;
+}
+
+#pointer{
+    width:24%;
+    margin: auto;
+}
+
+#roastColour{
+    width: 80%;
+}
+
+#comment{
+    width: 20%;
+    float: left;
 }
